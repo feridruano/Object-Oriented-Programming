@@ -1,0 +1,4 @@
+1. Airport.class is only used as a template to create a specific objects that can be used by multiple classes. The main method is the starting point of a program and is usually located in the source file that contains all the calling methods or program process.
+
+
+2. The main reason for using standard naming conventions for accessor and mutator methods is to easily understand what each method does. Moreover, a standard naming convention helps other developers figure out the purpose of the method.

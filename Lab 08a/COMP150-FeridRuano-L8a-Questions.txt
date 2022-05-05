@@ -1,0 +1,13 @@
+Ferid Ruano
+COMP 150 - 8AM
+
+8.11.2 Problem #25
+
+The method will lowercase the string array that is passed from another class or method. The method uses a for loop to lowercase each element from a passed array and stores them in a temporary array that will be returned.
+
+
+8.11.2 Problem #26
+
+The method will convert the string array that is passed into a boolean array. The method uses a for loop to check each element with an if statement containing a specific check to set a true or false value. The method will return a boolean array.
+
+I believe that the else block is not needed. A boolean defaults to false when not initialized.

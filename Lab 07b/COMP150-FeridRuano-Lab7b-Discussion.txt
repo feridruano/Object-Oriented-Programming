@@ -1,0 +1,5 @@
+1. countAirports has a value of 0 because it needs to be initialized in order to properly run the 'countAirports++;' located within multiple classes.
+
+2. The client calls the getCountAirports by printing(outputing) the Airport object with getCountAirports method. -> 'System.out.println(Airport.getcountAirports)'
+
+3. The equals method compares the actual value of an object while the '==' compares the reference or address of the object.

@@ -1,0 +1,11 @@
+1. Which methods of the Scanner class did you choose for reading the user’s name and birth
+year? Explain your decisions.
+
+The following Scanner methods were used: nextLine() and nextInt()
+
+nextLine() was used to read the user's sentence which included spaces.
+nextInt() was used to read the user's integer inputs.
+
+2. How would you change your code to generate a random number between 10 and 20?
+
+int randomNum = random.nextInt(20 - 10) + 10;

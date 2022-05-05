@@ -1,0 +1,8 @@
+1. After instructions 6 and 7 have executed, why do the day and month values get set to 1?
+
+The day and month values revert back to 1 if the value entered is greater than maximum values they can hold.
+
+2. At the end of the execution of the program, a NullPointerException is generated. Which
+statement in the program causes this error? Explain why.
+
+The erros is caused by making "dateObj = null;". The error happens because dateObj was unset and references nothing.
